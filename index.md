@@ -89,6 +89,6 @@ Download my complete CV:
 
 ## Contact
 
-📧 Email: keyhanvarn@EMAIL.COM
+📧 Email: keyhanvarn@gmail.com
 
 📍 San Francisco, California
