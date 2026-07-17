@@ -66,7 +66,7 @@ Download my complete CV:
 <div>
 
 🔗 **LinkedIn**  
-[[linkedin.com/in/YOUR_LINK](YOUR_LINK_HERE)](https://www.linkedin.com/in/neda-keyhanvar-89bb9738/)
+[[linkedin.com/in/YOUR_LINK]([YOUR_LINK_HERE](https://www.linkedin.com/in/neda-keyhanvar-89bb9738))
 
 <br>
 
