@@ -65,7 +65,7 @@ Download my complete CV:
 &nbsp;&nbsp;
 
 <a href="https://orcid.org/0000-0001-6852-9865" target="_blank">
-<img src="./orcid.png" width="40" alt="ORCID">
+<img src="./orcidd.png" width="40" alt="ORCID">
 </a>
 
 &nbsp;&nbsp;
