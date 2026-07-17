@@ -59,15 +59,15 @@ Download my complete CV:
 
 ## Professional Profiles
 
-🔗 **LinkedIn**  
+linkedin.png
 [LinkedIn Profile](https://www.linkedin.com/in/neda-keyhanvar-89bb9738/)
 
-🧬 **ORCID**  
+orcid.png
 [ORCID Profile](https://orcid.org/0000-0001-6852-9865)
 
 <br>
 
-📚 **Google Scholar**  
+google-scholar.png
 [Google Scholar Profile](https://scholar.google.com/citations?user=JaKV3wYAAAAJ&hl=en)
 
 ---
