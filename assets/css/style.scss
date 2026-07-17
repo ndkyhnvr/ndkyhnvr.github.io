@@ -1,0 +1,50 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Dark background */
+body {
+  background-color: #121212;
+  color: #e6e6e6;
+}
+
+/* Main text */
+h1, h2, h3, h4, h5, h6 {
+  color: #ffffff;
+}
+
+/* Paragraph text */
+body, p, li {
+  color: #d0d0d0;
+}
+
+/* Links */
+a {
+  color: #58a6ff;
+}
+
+a:hover {
+  color: #79c0ff;
+}
+
+/* Sidebar */
+.wrapper {
+  background-color: #121212;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+/* Horizontal lines */
+hr {
+  border-color: #333333;
+}
+
+/* Profile image */
+img {
+  border-radius: 10px;
+}
