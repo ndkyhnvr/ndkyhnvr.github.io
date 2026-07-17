@@ -6,6 +6,44 @@
 Stem Cell Enginering • CRISPR/Cas9 • in vivo Mouse Models
 ---
 
+## Curriculum Vitae
+
+Download my complete CV:
+
+[Download CV (PDF)](Neda_Keyhanvar_Resume_2026.pdf)
+
+---
+
+## Professional Profiles
+
+<h2>Professional Profiles</h2>
+
+<a href="https://www.linkedin.com/in/neda-keyhanvar-89bb9738/" target="_blank">
+<img src="./linkedin.png" width="40" alt="LinkedIn">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://orcid.org/0000-0001-6852-9865" target="_blank">
+<img src="./orcidd.png" width="40" alt="ORCID">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://scholar.google.com/citations?user=JaKV3wYAAAAJ&hl=en" target="_blank">
+<img src="./google-scholar.png" width="40" alt="Google Scholar">
+</a>
+---
+
+## Research Interests
+
+- Stem Cell Engineering
+- CRISPR/Cas9 Genome Editing
+- Functional Genomics
+- Cell Line Development
+- Molecular Biology
+- Therapeutic Discovery
+- Aging Biology
 ## Research Background
 
 Translational scientist with a PhD in Medical Biotechnology and postdoctoral training at UCSF, offering 10+ years of hands-on experience in mammalian cell line engineering, molecular biology, recombinant protein expression and transgenic mouse models. 
@@ -46,44 +84,6 @@ Investigation of cellular responses to changes in the extracellular environment 
 
 ---
 
-## Curriculum Vitae
-
-Download my complete CV:
-
-[Download CV (PDF)](Neda_Keyhanvar_Resume_2026.pdf)
-
----
-
-## Professional Profiles
-
-<h2>Professional Profiles</h2>
-
-<a href="https://www.linkedin.com/in/neda-keyhanvar-89bb9738/" target="_blank">
-<img src="./linkedin.png" width="40" alt="LinkedIn">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://orcid.org/0000-0001-6852-9865" target="_blank">
-<img src="./orcidd.png" width="40" alt="ORCID">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://scholar.google.com/citations?user=JaKV3wYAAAAJ&hl=en" target="_blank">
-<img src="./google-scholar.png" width="40" alt="Google Scholar">
-</a>
----
-
-## Research Interests
-
-- Stem Cell Engineering
-- CRISPR/Cas9 Genome Editing
-- Functional Genomics
-- Cell Line Development
-- Molecular Biology
-- Therapeutic Discovery
-- Aging Biology
 
 ---
 
