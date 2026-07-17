@@ -25,7 +25,7 @@ Download my complete CV:
 &nbsp;&nbsp;
 
 <a href="https://orcid.org/0000-0001-6852-9865" target="_blank">
-<img src="./orcidd.png" width="40" alt="ORCID">
+<img src="./orcidd.png" width="40" alt="ORCIDD">
 </a>
 
 &nbsp;&nbsp;
@@ -44,6 +44,7 @@ Download my complete CV:
 - Molecular Biology
 - Therapeutic Discovery
 - Aging Biology
+
 ## Research Background
 
 Translational scientist with a PhD in Medical Biotechnology and postdoctoral training at UCSF, offering 10+ years of hands-on experience in mammalian cell line engineering, molecular biology, recombinant protein expression and transgenic mouse models. 
