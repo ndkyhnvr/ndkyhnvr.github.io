@@ -3,7 +3,7 @@
 
 **Postdoctoral Scientist | University of California, San Francisco (UCSF)**
 
-Stem Cell Enginering • CRISPR/Cas9 • in vivo Mouse Models
+Stem Cell Enginering • CRISPR/Cas9 • _in vivo_ Mouse Models
 
 ## My Resume/CV
 
