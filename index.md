@@ -7,9 +7,11 @@ Stem Cell Enginering • CRISPR/Cas9 • in vivo Mouse Models
 
 ## Curriculum Vitae
 
-Download my complete CV:
+My Resume/CV
 
-[Download CV (PDF)](Neda_Keyhanvar_Resume_2026.pdf)
+[Download Resume (PDF)](Neda_Keyhanvar_Resume_2026.pdf)
+
+[Download CV (PDF)](Neda_Keyhanvar_CV_2026.pdf)
 
 
 <h2>Professional Profiles</h2>
