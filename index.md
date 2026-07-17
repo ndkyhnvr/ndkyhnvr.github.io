@@ -1,7 +1,9 @@
 
 # Dr. Neda Keyhanvar
 
-**Postdoctoral Scientist | University of California, San Francisco (UCSF)**
+Postdoctoral Scientist
+
+University of California, San Francisco (UCSF)
 
 Stem Cell Enginering • CRISPR/Cas9 • _in vivo_ Mouse Models
 
