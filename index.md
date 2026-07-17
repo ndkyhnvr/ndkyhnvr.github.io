@@ -56,20 +56,23 @@ Download my complete CV:
 
 ## Professional Profiles
 
+<h2>Professional Profiles</h2>
 
-## Professional Profiles
+<a href="https://www.linkedin.com/in/neda-keyhanvar-89bb9738/" target="_blank">
+<img src="./linkedin.png" width="40" alt="LinkedIn">
+</a>
 
-linkedin.png
-[LinkedIn Profile](https://www.linkedin.com/in/neda-keyhanvar-89bb9738/)
+&nbsp;&nbsp;
 
-orcid.png
-[ORCID Profile](https://orcid.org/0000-0001-6852-9865)
+<a href="https://orcid.org/0000-0001-6852-9865" target="_blank">
+<img src="./orcid.png" width="40" alt="ORCID">
+</a>
 
-<br>
+&nbsp;&nbsp;
 
-google-scholar.png
-[Google Scholar Profile](https://scholar.google.com/citations?user=JaKV3wYAAAAJ&hl=en)
-
+<a href="https://scholar.google.com/citations?user=JaKV3wYAAAAJ&hl=en" target="_blank">
+<img src="./google-scholar.png" width="40" alt="Google Scholar">
+</a>
 ---
 
 ## Research Interests
