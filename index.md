@@ -4,17 +4,17 @@ layout: default
 
 # Dr. Neda Keyhanvar
 
-Postdoctoral Researcher | UCSF
+Postdoctoral Scientist | UCSF
 
-Stem Cell Biology • CRISPR Engineering • Functional Genomics
+Stem Cell Enginering • CRISPR/Cas9 • in vivo Mouse Models
 
 ---
 
 ## About Me
 
-I am a postdoctoral researcher specializing in stem cell biology, genome engineering, and functional genomics.
+Translational scientist with a PhD in Medical Biotechnology and postdoctoral training at UCSF, offering 10+ years of hands-on experience in mammalian cell line engineering, molecular biology, recombinant protein expression and transgenic mouse models. 
 
-My research focuses on developing advanced cellular models and CRISPR-based technologies to understand biological mechanisms and accelerate therapeutic discovery.
+Proven expertise in designing expression vectors, engineering mammalian cell lines using CRISPR/Cas9 and viral gene delivery approaches and developing robust experimental workflows to understand biological mechanisms and accelerate therapeutic discovery.
 
 ---
 
@@ -24,8 +24,8 @@ My research focuses on developing advanced cellular models and CRISPR-based tech
 - Functional genomics screening
 - Stem cell biology
 - Cell line engineering
-- Epitranscriptomics
-- Mechanobiology
+- Transgenic Mouse Models
+  
 
 ---
 
