@@ -1,7 +1,9 @@
 
-# Dr. Neda Keyhanvar
+# Neda Keyhanvar, PhD
 
-Postdoctoral Scientist
+Translational Scientist
+
+10+ years of hands-on experience
 
 University of California, San Francisco (UCSF)
 
@@ -32,10 +34,9 @@ Stem Cell Enginering • CRISPR/Cas9 • _in vivo_ Mouse Models
 ## Research Interests
 
 - Stem Cell Engineering
+- Cell Line Development
 - CRISPR/Cas9 Genome Editing
 - Functional Genomics
-- Cell Line Development
-- Molecular Biology
 - Therapeutic Discovery
 - Aging Biology
 
