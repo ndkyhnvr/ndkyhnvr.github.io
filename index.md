@@ -1,10 +1,3 @@
----
-layout: default
----
-
-layout: default
-title: Dr. Neda Keyhanvar
----
 
 # Dr. Neda Keyhanvar
 
@@ -63,21 +56,19 @@ Download my complete CV:
 
 ## Professional Profiles
 
-<div>
+
+## Professional Profiles
 
 🔗 **LinkedIn**  
-https://www.linkedin.com/in/neda-keyhanvar-89bb9738
-<br>
+[LinkedIn Profile](https://www.linkedin.com/in/neda-keyhanvar-89bb9738/)
 
 🧬 **ORCID**  
-[ORCID Profile](YOUR_ORCID_LINK_HERE)
+[ORCID Profile](https://orcid.org/0000-0001-6852-9865)
 
 <br>
 
 📚 **Google Scholar**  
-(YOUR_GOOGLE_SCHOLAR_LINK_HERE)
-
-</div>
+[Google Scholar Profile](https://scholar.google.com/citations?user=JaKV3wYAAAAJ&hl=en)
 
 ---
 
