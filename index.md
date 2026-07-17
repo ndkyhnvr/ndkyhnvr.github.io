@@ -21,15 +21,11 @@ Download my complete CV:
 <a href="https://www.linkedin.com/in/neda-keyhanvar-89bb9738/" target="_blank">
 <img src="./linkedin.png" width="40" alt="LinkedIn">
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://orcid.org/0000-0001-6852-9865" target="_blank">
 <img src="./Orcidd.png" width="40" alt="ORCIDD">
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://scholar.google.com/citations?user=JaKV3wYAAAAJ&hl=en" target="_blank">
 <img src="./google-scholar.png" width="40" alt="Google Scholar">
 </a>
@@ -65,10 +61,6 @@ My goal is to bridge fundamental biological discoveries with translational appli
 
 ---
 
-## Selected Publications
-
-For a complete list of publications, please visit my Google Scholar profile.
-
 ### Selected Research Contributions
 
 **CRISPR-based Functional Genomics and Cell Engineering**
@@ -82,9 +74,6 @@ Application of human pluripotent stem cell systems to investigate cellular pathw
 **Mechanobiology and Aging Research**
 
 Investigation of cellular responses to changes in the extracellular environment and molecular pathways regulating tissue aging.
-
----
-
 
 ---
 
