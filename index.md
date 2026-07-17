@@ -4,7 +4,6 @@
 **Postdoctoral Scientist | University of California, San Francisco (UCSF)**
 
 Stem Cell Enginering • CRISPR/Cas9 • in vivo Mouse Models
----
 
 ## Curriculum Vitae
 
@@ -12,9 +11,6 @@ Download my complete CV:
 
 [Download CV (PDF)](Neda_Keyhanvar_Resume_2026.pdf)
 
----
-
-## Professional Profiles
 
 <h2>Professional Profiles</h2>
 
@@ -29,7 +25,6 @@ Download my complete CV:
 <a href="https://scholar.google.com/citations?user=JaKV3wYAAAAJ&hl=en" target="_blank">
 <img src="./google-scholar.png" width="40" alt="Google Scholar">
 </a>
----
 
 ## Research Interests
 
@@ -59,9 +54,7 @@ During my postdoctoral research, I have developed genetically engineered human c
 
 My goal is to bridge fundamental biological discoveries with translational applications in biotechnology and therapeutic development.
 
----
-
-### Selected Research Contributions
+### Research Contributions
 
 **CRISPR-based Functional Genomics and Cell Engineering**
 
@@ -75,7 +68,6 @@ Application of human pluripotent stem cell systems to investigate cellular pathw
 
 Investigation of cellular responses to changes in the extracellular environment and molecular pathways regulating tissue aging.
 
----
 
 ## Contact
 
