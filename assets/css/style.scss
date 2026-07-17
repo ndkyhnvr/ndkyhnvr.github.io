@@ -3,48 +3,106 @@
 
 @import "{{ site.theme }}";
 
-/* Dark background */
+/* =========================
+   Professional Dark Theme
+   ========================= */
+
+/* Main page background */
 body {
-  background-color: #121212;
-  color: #e6e6e6;
+  background-color: #0d1117;
+  color: #c9d1d9;
 }
 
-/* Main text */
+/* Main content area */
+.wrapper {
+  background-color: #0d1117;
+}
+
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
-  color: #ffffff;
+  color: #f0f6fc;
+  font-weight: 600;
 }
 
-/* Paragraph text */
-body, p, li {
-  color: #d0d0d0;
+/* Body text */
+body,
+p,
+li {
+  color: #c9d1d9;
+  line-height: 1.7;
+}
+
+/* Name/title emphasis */
+h1 {
+  color: #ffffff;
 }
 
 /* Links */
 a {
   color: #58a6ff;
+  text-decoration: none;
 }
 
 a:hover {
   color: #79c0ff;
+  text-decoration: underline;
 }
 
 /* Sidebar */
-.wrapper {
-  background-color: #121212;
+header {
+  background-color: #0d1117;
 }
 
-/* Code blocks */
-pre, code {
-  background-color: #1e1e1e;
+/* Sidebar text */
+header h1 a {
   color: #ffffff;
 }
 
-/* Horizontal lines */
-hr {
-  border-color: #333333;
+header p {
+  color: #c9d1d9;
 }
 
-/* Profile image */
+/* Horizontal separators */
+hr {
+  border-color: #30363d;
+}
+
+/* Code blocks */
+pre,
+code {
+  background-color: #161b22;
+  color: #f0f6fc;
+  border-radius: 6px;
+}
+
+/* Images */
 img {
-  border-radius: 10px;
+  border-radius: 12px;
+}
+
+/* Profile photo */
+header img {
+  border-radius: 50%;
+  border: 3px solid #30363d;
+}
+
+/* Buttons / highlighted links */
+.btn {
+  background-color: #238636;
+  color: #ffffff;
+  border-radius: 6px;
+  padding: 8px 16px;
+}
+
+.btn:hover {
+  background-color: #2ea043;
+}
+
+/* Tables */
+table {
+  color: #c9d1d9;
+}
+
+th {
+  color: #ffffff;
 }
