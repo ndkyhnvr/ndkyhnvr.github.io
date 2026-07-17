@@ -66,8 +66,7 @@ Download my complete CV:
 <div>
 
 🔗 **LinkedIn**  
-[[linkedin.com/in/YOUR_LINK]([YOUR_LINK_HERE](https://www.linkedin.com/in/neda-keyhanvar-89bb9738))
-
+https://www.linkedin.com/in/neda-keyhanvar-89bb9738
 <br>
 
 🧬 **ORCID**  
@@ -76,7 +75,7 @@ Download my complete CV:
 <br>
 
 📚 **Google Scholar**  
-[Google Scholar Profile](YOUR_GOOGLE_SCHOLAR_LINK_HERE)
+(YOUR_GOOGLE_SCHOLAR_LINK_HERE)
 
 </div>
 
@@ -96,6 +95,6 @@ Download my complete CV:
 
 ## Contact
 
-📧 Email: YOUR_EMAIL@EMAIL.COM
+📧 Email: keyhanvarn@EMAIL.COM
 
 📍 San Francisco, California
